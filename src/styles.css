@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  color: grey;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 46px;
+}
